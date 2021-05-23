@@ -1,5 +1,6 @@
 # Lane Detection
 Detects current lane which the vehicle is driving in.
+Useful for Lane-keep assist/cruise control.
 
 ### How to run
 1. Clone the repo
